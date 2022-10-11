@@ -1,0 +1,32 @@
+.mynavbar
+{
+position: sticky;
+top: 0;
+z-index:999999;
+}
+#video
+{
+width: 70%;
+height:500px;
+border:none;
+text-align: center;
+}
+body
+{
+text-align: center;
+}
+.filme_head i
+{
+float: right;
+font-size:10px;
+}
+.conquistas_texto span
+{
+color: orange;
+}
+.filme_head
+{
+padding:5px;
+margin: 5px;
+font-size: 15px;
+}
